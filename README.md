@@ -7,9 +7,9 @@ This Repo contain several projects which focus on machine learning code using py
 
 ## Recomendation System
 - CollaborativeFiltering
-	Neighborhood-Base
-	Model-Base
-	
+	1. Neighborhood-Base
+	2. Model-Base
+
 - Content Base Filtering
 
 
