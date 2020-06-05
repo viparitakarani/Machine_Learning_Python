@@ -1,9 +1,9 @@
 # Machine Learning with Python
-This Repo contain several projects which focus on machine learning code using python programming language 
+This Repo contains several projects which focus on machine learning code using python programming language 
 
-## Basic Pandas Data Frame 
+## Basic Pandas and Spark Data Frame 
 
-## Plotting with matplotlib
+## Plotting with matplotlib and sklearn
 
 ## Recomendation System
 - CollaborativeFiltering
