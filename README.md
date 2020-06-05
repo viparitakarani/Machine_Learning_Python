@@ -7,7 +7,7 @@ This Repo contains several projects which focus on machine learning code using p
 
 ## DecisionTreeClassifier using Sklearn 
 
-## Recomendation System
+## Recommendation System
 - CollaborativeFiltering
 	1. Neighborhood-Base
 	2. Model-Base

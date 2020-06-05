@@ -1,2 +1,2 @@
-# Recomendation System using Neighborhood-Base Collaborative Filtering
-This code is trying to build a recomendation system using Neighborhood-Base Collaborative Filtering, both item base and user base collaborative filtering algorithm using cosine similarity function 
+# Recommendation System using Neighborhood-Base Collaborative Filtering
+This code is trying to build a recommendation system using Neighborhood-Base Collaborative Filtering, both item base and user base collaborative filtering algorithm using cosine similarity function 
