@@ -41,6 +41,7 @@ print (departmentWithEmployees1.employees[0].email)
 departmentsWithEmployeesSeq1 = [departmentWithEmployees1, departmentWithEmployees2]
 df1 = sqlContext.createDataFrame(departmentsWithEmployeesSeq1)
 
+#print the schema of the joined data frame
 df1.printSchema()
 
 #display(df1)
